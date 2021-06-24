@@ -1,4 +1,4 @@
-# DLO-25GM310 Series
+# LDO-25GM310 Series
 
 ![](https://github.com/3rdEyeLabs-io/LDO-Motors/blob/main/Gear%20Motor/LDO-25GM310%20Series/LDO-25GM310%20Series.jpg)
 
